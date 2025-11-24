@@ -1,4 +1,4 @@
-#🌸 Iris Flower Classification – Machine Learning Project
+# 🌸 Iris Flower Classification – Machine Learning Project
 
 This project demonstrates a complete Machine Learning pipeline using the classic Iris dataset from the UCI Machine Learning Repository.
 It includes data loading, preprocessing, model training, evaluation, and prediction using Python & scikit-learn — all implemented inside a Jupyter Notebook.
@@ -71,6 +71,11 @@ Manual inputs
 Actual test dataset
 
 New data samples
+
+📊 Results
+
+Your trained model achieved good accuracy on the Iris dataset (usually between 94–100%, depending on the algorithm).
+All three Iris classes were correctly predicted in most test samples.
 
 
 🚀 How to Run
